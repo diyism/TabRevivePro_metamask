@@ -2,7 +2,7 @@ kiwi browser + self-customized metamask(transaction preview) is safer than a har
 
 ![](./a.jpg)
 
-Download 2 files of "Source code (zip)" and "metamask-chrome-12.1.0.mod.zip" from: https://github.com/diyism/TabRevivePro_metamask/releases/
+On your google pixel android phone, download 2 files of "Source code (zip)" and "metamask-chrome-12.1.0.mod.zip" from: https://github.com/diyism/TabRevivePro_metamask/releases/
 
 Click "Extension" on the kiwi browser menu, click "Developer mode" at top-right, click "+(from .zip/.crx/.user.js)", select the zip file and install it
 
