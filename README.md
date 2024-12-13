@@ -1,3 +1,5 @@
+![](./a.jpg)
+
 Download source zip file from: https://github.com/diyism/TabRevivePro_metamask/releases/
 
 Click "Extension" on the kiwi browser menu, click "Developer mode" at top-right, click "+(from .zip/.crx/.user.js)", select the zip file and install it
