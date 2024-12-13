@@ -1,3 +1,5 @@
+kiwi browser + custom metamask(transaction preview) is safer than the harward wallet!
+
 ![](./a.jpg)
 
 Download source zip file from: https://github.com/diyism/TabRevivePro_metamask/releases/
