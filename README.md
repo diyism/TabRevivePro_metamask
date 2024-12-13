@@ -1,4 +1,4 @@
-kiwi browser + custom metamask(transaction preview) is safer than a harward wallet!
+kiwi browser + self-customized metamask(transaction preview) is safer than a harward wallet!
 
 ![](./a.jpg)
 
